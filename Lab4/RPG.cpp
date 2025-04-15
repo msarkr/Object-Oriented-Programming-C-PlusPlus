@@ -7,8 +7,8 @@ using namespace std;
 RPG::RPG() {
     name = "NPC";
     health = 100;
-    strength = 10;
-    defense = 10;
+    strength = 40;
+    defense = 50;
     type = "warrior";
     setSkills();
 }
